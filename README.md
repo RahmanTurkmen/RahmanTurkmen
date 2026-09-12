@@ -1,137 +1,86 @@
-  <div align="center">
+<div align="center">
 
-  # RAHMAN TURKMEN.
+# RAHMAN TURKMEN.
 
-  ### `full-stack developer · Troyes, France`
+### `développeur full-stack junior · Troyes, France`
 
-  <a href="https://rahmanturkmen.com">portfolio ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:xrahmanturkmen@gmail.com">contact ↗</a>
+<br />
 
-  <br />
-  <br />
+<a href="https://rahmanturkmen.com">
+  <img src="https://img.shields.io/badge/portfolio-23d091?style=for-the-badge&labelColor=07080b&logo=googlechrome&logoColor=e9ebef" alt="Portfolio" />
+</a>
+<a href="mailto:xrahmanturkmen@gmail.com">
+  <img src="https://img.shields.io/badge/contact-23d091?style=for-the-badge&labelColor=07080b&logo=gmail&logoColor=e9ebef" alt="Contact" />
+</a>
 
-  ![Status](https://img.shields.io/badge/status-available-23d091?style=flat-square&labelColor=07080b)
-  ![Focus](https://img.shields.io/badge/focus-full--stack-23d091?style=flat-square&labelColor=07080b)
-  ![License](https://img.shields.io/badge/license-private-a2a5aa?style=flat-square&labelColor=07080b)
+<br />
+<br />
 
-  </div>
+![Disponible](https://img.shields.io/badge/●%20disponible-23d091?style=flat-square&labelColor=07080b)
+![France](https://img.shields.io/badge/Troyes%2C%20France-a2a5aa?style=flat-square&labelColor=07080b)
 
-  <br />
+</div>
 
-  > Je forge des applications web robustes, de l'architecture au déploiement.
+<br />
 
-  ---
+> Je conçois des expériences web propres, robustes et pensées pour durer.
 
-  ## `01 / profil`
+## `01 / à propos`
 
-  Je suis **Rahman Turkmen**, développeur full-stack junior.  
-  Je construis des interfaces propres, des APIs fiables et des applications pensées pour durer.
+Je suis **Rahman**, développeur full-stack junior passionné par la création de produits web modernes.
 
-  ```text
-  location   Troyes, France
-  stack      JavaScript · PHP · Symfony · Node.js
-  approach   clean code · sécurité · performance · accessibilité
-  status     disponible
-  ```
+J'aime transformer une idée en interface claire, architecture fiable et expérience fluide — de la première ligne de code jusqu'au déploiement.
 
-  ## `02 / technologies`
+```text
+focus       applications web · APIs · interfaces
+principles  clean code · sécurité · performance · accessibilité
+currently   apprendre · construire · améliorer
+```
 
-  <table>
-    <tr>
-      <td><strong>frontend</strong></td>
-      <td>Next.js · React · JavaScript · HTML · CSS</td>
-    </tr>
-    <tr>
-      <td><strong>backend</strong></td>
-      <td>Node.js · PHP · Symfony · APIs REST</td>
-    </tr>
-    <tr>
-      <td><strong>data</strong></td>
-      <td>Supabase · PostgreSQL</td>
-    </tr>
-    <tr>
-      <td><strong>infrastructure</strong></td>
-      <td>Linux · Docker · Apache · VPS · PM2</td>
-    </tr>
-    <tr>
-      <td><strong>principles</strong></td>
-      <td>security by design · responsive · Lighthouse · privacy</td>
-    </tr>
-  </table>
+## `02 / stack`
 
-  ## `03 / portfolio`
+<div align="center">
 
-  Le portfolio est une interface personnelle conçue et développée par moi-même, avec une direction visuelle sombre, minimaliste et technique.
+![JavaScript](https://img.shields.io/badge/JavaScript-07080b?style=for-the-badge&logo=javascript&logoColor=23d091)
+![React](https://img.shields.io/badge/React-07080b?style=for-the-badge&logo=react&logoColor=23d091)
+![Next.js](https://img.shields.io/badge/Next.js-07080b?style=for-the-badge&logo=nextdotjs&logoColor=e9ebef)
+![Node.js](https://img.shields.io/badge/Node.js-07080b?style=for-the-badge&logo=nodedotjs&logoColor=23d091)
+![PHP](https://img.shields.io/badge/PHP-07080b?style=for-the-badge&logo=php&logoColor=23d091)
+![Symfony](https://img.shields.io/badge/Symfony-07080b?style=for-the-badge&logo=symfony&logoColor=e9ebef)
+![Supabase](https://img.shields.io/badge/Supabase-07080b?style=for-the-badge&logo=supabase&logoColor=23d091)
+![Docker](https://img.shields.io/badge/Docker-07080b?style=for-the-badge&logo=docker&logoColor=23d091)
+![Linux](https://img.shields.io/badge/Linux-07080b?style=for-the-badge&logo=linux&logoColor=e9ebef)
 
-  ### points forts
+</div>
 
-  - navigation responsive avec menu secondaire ;
-  - page projets et présentation de la stack ;
-  - statistiques publiques agrégées et anonymisées ;
-  - page 404 personnalisée ;
-  - mentions légales et politique de confidentialité ;
-  - changelog public ;
-  - headers de sécurité et déploiement standalone ;
-  - détection du pays par estimation réseau, sans conservation d'adresse IP.
+## `03 / ce que je construis`
 
-  ## `04 / lancer le projet`
+- interfaces web modernes et responsive ;
+- APIs sécurisées et services backend ;
+- expériences accessibles et performantes ;
+- projets personnels avec une vraie attention aux détails ;
+- architectures simples, maintenables et prêtes à évoluer.
 
-  ```bash
-  npm install
-  npm run dev
-  ```
+## `04 / philosophie`
 
-  Pour produire le package destiné à un VPS :
+```text
+design       minimal, lisible, intentionnel
+code         simple, propre, documenté
+sécurité     prévue dès la conception
+performance  rapide par défaut
+progression  constante, projet après projet
+```
 
-  ```bash
-  npm run build:standalone
-  ```
+## `05 / me retrouver`
 
-  Le package généré se trouve dans :
+<div align="center">
 
-  ```text
-  .next/standalone/
-  ```
+**[portfolio ↗](https://rahmanturkmen.com)**  
+**[xrahmanturkmen@gmail.com ↗](mailto:xrahmanturkmen@gmail.com)**
 
-  Démarrage en production :
+<br />
+<br />
 
-  ```bash
-  node server.js
-  ```
+`built with curiosity · shipped with precision`
 
-  ## `05 / configuration`
-
-  Les statistiques utilisent Supabase côté serveur. Crée un fichier `.env.local` en développement ou `.env` à côté de `server.js` en production :
-
-  ```env
-  SUPABASE_URL=https://your-project.supabase.co
-  SUPABASE_SERVICE_ROLE_KEY=server-only-key
-  ANALYTICS_HASH_SECRET=long-random-secret
-  GEOIP_DB_PATH=/opt/geoip/GeoLite2-Country.mmdb
-  ```
-
-  Les clés secrètes ne doivent jamais être exposées dans le navigateur ou commit dans Git.
-
-  ## `06 / sécurité`
-
-  - CSP, HSTS, `nosniff` et protection anti-iframe ;
-  - validation stricte des entrées API ;
-  - rate limiting des endpoints analytics ;
-  - identifiants de session hachés ;
-  - aucune conservation de nom, email ou adresse IP ;
-  - données publiques limitées à des agrégats anonymisés.
-
-  ## `07 / contact`
-
-  Une question, une collaboration ou un retour ?
-
-  **[xrahmanturkmen@gmail.com](mailto:xrahmanturkmen@gmail.com)**
-
-  <br />
-
-  <div align="center">
-
-  `built with precision · protected by design · shipped from France`
-
-  </div>
+</div>
